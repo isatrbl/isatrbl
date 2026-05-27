@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Isabella
 
-<!--
-**isatrbl/isatrbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** na Universidade Estadual do Tocantins  
+🎨 Estudo **Design Gráfico** e experiência em **análise de dados, IA e produção audiovisual**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 📚 Estudando no momento
+
+- Especialização em **Inteligência Artificial** (Alura)
+- **Análise de Dados com Power BI** (Fundação Bradesco)
+- **Golang**
+- **Python**
+- **Produção Audiovisual** (Escult)
+
+## 📫 Como me encontrar
+
+- 📧 E-mail: isabellagomesjs@gmail.com  
+- 📱 Telefone: +55 (63) 99119-0140  
+- 🌍 Palmas, TO - Brasil
+
+---
+
+![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
